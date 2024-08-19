@@ -26,7 +26,7 @@ This project is an AI-based Traffic Signal Violation Detection System that uses 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/traffic-signal-violation-detection.git
+   git clone https://github.com/MohammedHamza0/traffic-signal-violation-detection.git
    cd traffic-signal-violation-detection
    ```
 
@@ -38,7 +38,7 @@ This project is an AI-based Traffic Signal Violation Detection System that uses 
    pip install -r requirements.txt
    ```
 
-   The `requirements.txt` file should include:
+   The `requirements.txt` file include:
    ```text
    opencv-python
    ultralytics

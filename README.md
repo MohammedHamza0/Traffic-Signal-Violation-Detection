@@ -72,7 +72,7 @@ This project is an AI-based Traffic Signal Violation Detection System that uses 
 - **`traffic_violation_detection.py`**: The main script for running the violation detection system.
 - **`requirements.txt`**: A list of Python dependencies required for the project.
 - **`yolov8m.pt`**: The pre-trained YOLOv8 model (to be downloaded separately).
-- **`tr.mp4`**: Sample video file (replace with your own video).
+- **`tr.mp4`**: Sample video file .
 
 ## Customization
 
@@ -98,9 +98,6 @@ TargetLabels = ["bicycle", "car", "motorcycle", "bus", "truck", "traffic light"]
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have any suggestions or improvements.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Acknowledgements
 
